@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.contact {
+    border: 1px solid rgb(192, 194, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    width: 30%;
+
+    background-color: aliceblue;
+    border-radius: 8px;
+}
